@@ -8,9 +8,10 @@ img{
     width: auto;
 }
 img.mascot{
-    height: 250px;
+    height: 220px;
     float: left;
-    margin: 20px;
+    margin: 5px;
+    padding: 20px;
 }
 
 div{
@@ -32,6 +33,7 @@ div.contact a{
 }
 
 div.dogs{
+    margin-top: 80px;
     background-color: yellow;
     color: darkgreen;
     border-color: darkgreen;
