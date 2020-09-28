@@ -3,6 +3,16 @@ body{
     font-family: sans-serif;
 }
 
+img{
+    height: 200px;
+    width: auto;
+}
+img.mascot{
+    height: 250px;
+    float: left;
+    margin: 20px;
+}
+
 div{
     margin: 10px;
     border: 4px solid;
@@ -47,6 +57,10 @@ div.fish{
 
 div.reptiles{
     background-color: sandybrown;
-    color: goldenrod;
+    color: rgb(218, 38, 32);
     border-color: green;
+}
+
+ul{
+    list-style: none;
 }
